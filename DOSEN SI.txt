@@ -1,3 +1,5 @@
+#Mencari jumlah dan daftar dosen dari jurusan SI#
+
 import pyodbc
 import pandas as pd
 import matplotlib.pyplot as plt
